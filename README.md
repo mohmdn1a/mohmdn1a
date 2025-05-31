@@ -15,9 +15,9 @@
 
 ---
 
-- 👨‍💻 As a Full Stack Developer, I'm passionate about building web applications that are efficient, responsive, and user-focused.
-- 💬 Ask me about my experience with React, Flask, Laravel, PostgreSQL, and full project development from frontend to backend.
-- 🌱 I’m currently deepening my knowledge in Node.js and Python to expand my backend skills and work on more scalable apps.
+-  As a Full Stack Developer, I'm passionate about building web applications that are efficient, responsive, and user-focused.
+-  Ask me about my experience with React, Flask, Laravel, PostgreSQL, and full project development from frontend to backend.
+-  I’m currently deepening my knowledge in Node.js and Python to expand my backend skills and work on more scalable apps.
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -97,10 +97,10 @@
 <h4 align="center">🚀 Open Source Projects I’m Working On</h4>
 
 <p align="center">
-  👉 <a href="https://github.com/mohmdn1a/final-project">Final Project – GitHub Repository</a> 👈
+  👉 <a href="https://github.com/mohmdn1a/final-project">Employeer App - Final Project</a> 👈
 </p>
 
 ---
 
 
-Last Edited on: 26/02/2025
+Last Edited on: 26/05/2025
