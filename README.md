@@ -55,14 +55,14 @@
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmdnia&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmdn1a&theme=github_dark)
   
  </div>
  
  
  ### 📈 Activity Graph
  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmdnia&theme=react-dark)](https://github.com/mohmdnia)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmdn1a&theme=react-dark)](https://github.com/mohmdn1a)
 
 ### 📊 Most Used Language
 
@@ -76,7 +76,7 @@
  ### 🏆 Profile Trophies
 
 <div align="center">
-  <a href="https://github.com/mohmdnia">
+  <a href="https://github.com/mohmdn1a">
     <img src="https://github-profile-trophy.vercel.app/?username=mohmdn1a&theme=onedark&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
   </a>
 </div>
