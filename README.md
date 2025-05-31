@@ -62,7 +62,7 @@
  
  ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmdnia&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmdnia&theme=react-dark)](https://github.com/mohmdnia)
 
 ### 📊 Most Used Language
 
@@ -76,11 +76,9 @@
  ### 🏆 Profile Trophies
 
 <div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/mohmdnia">
     <img src="https://github-profile-trophy.vercel.app/?username=mohmdn1a&theme=onedark&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
   </a>
-
 </div>
 
 ---
@@ -88,9 +86,9 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:mohamednia00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohmdnia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a>
+   <a href="mailto:mohamednia00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/mohmdnia/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   </a>
 </div>
 
 
