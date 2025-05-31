@@ -71,13 +71,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdn1a&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
+
  
  ### 🏆 Profile Trophies
 
-<div align=center>
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohmdn1a-mohmdn1a&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohmdn1a&theme=onedark&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  </a>
+
 </div>
 
 ---
