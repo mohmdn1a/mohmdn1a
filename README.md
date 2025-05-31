@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://github.com/mohmdn1a">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdn1a&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdn1a&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
  
