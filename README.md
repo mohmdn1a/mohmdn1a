@@ -97,7 +97,7 @@
 <h4 align="center">🚀 Open Source Projects I’m Working On</h4>
 
 <p align="center">
-  👉 <a href="https://github.com/mohmdn1a/final-project">Employeer App - Final Project</a> 👈
+  👉 <a href="https://github.com/mohmdn1a/final-project">Employeer App - Final Project</a> 👈<br>
   👉 <a href="https://github.com/mohmdn1a/blockchain-python">BlockChain Project</a> 👈
 </p>
 
